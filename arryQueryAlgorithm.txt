@@ -1,0 +1,26 @@
+1.Kadane Algorith
+	* Used to find maximum or minimum within subarry
+	* used to perform subarray operations
+	* O(n)
+2.Segment Tree
+	* bottom up approach
+	* With given n nodes the height of tree is log(n)
+	* Creating a tree takes _____
+	* query a tree is 2*log(n)
+	* update a tree log(n)
+	* not good for frequent updates like deletion and adding
+3.Look up Table
+	* table size depends on type of problem
+	* table should be built in such way that query size is always O(1)
+4.Sparse Table
+ 	* space occupied is n*log(n)
+ 	* query time is O(1)
+ 	* table creation takes n*log(n)
+5.Square root decomposition
+	* space efficiency is sqrt(n)
+6.Fenwick Tree
+	* Time 
+
+
+Yet to
+* MergeSort tree
